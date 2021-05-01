@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import aframe from 'aframe';
+import 'aframe';
 
 function App() {
   return (
